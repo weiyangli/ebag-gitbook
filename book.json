@@ -1,0 +1,20 @@
+﻿{
+    "title": "电子书包 2.0 常见问题",
+    "description": "常见问题",
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-highlight",
+        "-lunr",
+        "expandable-chapters-interactive",
+        "prism",
+        "navigator"
+        ],
+    "pluginsConfig":{
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        }
+    }
+}
